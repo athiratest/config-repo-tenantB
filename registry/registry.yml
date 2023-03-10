@@ -1,1 +1,5 @@
-
+spring:
+    banglore:
+        hospital:
+            hospId: insidefolder
+            hospName: apolloooo
